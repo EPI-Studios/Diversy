@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "front": "./diversy-frontend",
+    "back": "./diversy-backend"
+  },
+  "shared_dependencies": {}
+}
