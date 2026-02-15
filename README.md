@@ -1,4 +1,4 @@
-<p align="center">🇫🇷 Vous voulez accéder à la version française ? <a href="./README_fr.md">Cliquez ici.</a></p>
+<p align="center">🇫🇷 La version française sera bientôt disponible</p>
 
 <div align="center">
     <img src="./md_assets/logo.png" alt="Diversy Logo" width="300" />
@@ -29,13 +29,7 @@
 ## License
 
 This is project is "All Rights Reserved". See [LICENSE](./LICENSE) for more information.
-For any inquiries, please contact me at neko.anima@proton.me
-
-## Shoutout to EPI Studio
-
-Thanks to EPI Studio, I'm member of this association so I wanted to give them some visibility, knowing I didn't want Diversy to be 100% theirs.
-
-[![EPI Studio Logo](./md_assets/Banniereepistudio.jpg)](https://github.com/EPI-Studios)
+For any inquiries, please contact EPI Studio.
 
 ## Why
 
@@ -54,3 +48,6 @@ Diversy aims to be a platform that provides:
 - Creativity
 - Ambition
 - As well as security and anonymity
+
+**[Ad] Diversy project concept has been initiated by Nekoniyah, member of EPI Studio and head of Anthromeda.**
+[![icon](./md_assets/anthromeda-logo.png)](https://github.com/anthromeda/)
