@@ -9,7 +9,7 @@ To contribute code, please follow these steps:
 
 - **Fork the repository**: You are authorized to fork this project only for the purpose of contributing back to this upstream repository.
 - **Create a Branch**: Name it something descriptive (e.g., fix/auth-bug or feat/new-ui).
-- **Commit Your Changes**: Ensure your code follows our tech stack (Bun, TypeScript, Svelte).
+- **Commit Your Changes**: Ensure your code follows our tech stack (Bun, TypeScript, Svelte, etc.).
 - **Open a Pull Request (PR)**: Describe exactly what your changes do.
 
 ## 2. Contribution Agreement

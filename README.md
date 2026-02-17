@@ -52,8 +52,7 @@ Diversy aims to be a platform that provides:
 **[Ad] Diversy project concept has been initiated by Nekoniyah, member of EPI Studio and head of Anthromeda.**
 [![icon](./md_assets/anthromeda-logo.png)](https://github.com/anthromeda/)
 
+## This project is presented to you by Epi Studio.
 
-## This project is presented to you by Epi Studio. 
 To know more or to join us, visit our website: https://www.epistudios.fr
 [![Banniereepistudio](https://github.com/user-attachments/assets/4b6799ad-f6f1-4775-b3be-1edc4745d5cb)](https://www.epistudios.fr)
-
